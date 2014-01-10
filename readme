@@ -1,0 +1,13 @@
+;;; *~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+;;; Filename: readme
+;;;           Readme file for Chainshot game (CAP5635 Project)
+;;; Author:   Neeraj Rao
+;;;           neeraj AT cise.ufl.edu
+;;; *~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+
+To run this program, you will need to have GNU Common Lisp installed on your machine.
+To run, simply type 'clisp run' on the command prompt.
+
+;;; *~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+;;; End of File
+;;; *~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
