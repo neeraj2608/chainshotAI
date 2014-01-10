@@ -2,7 +2,7 @@
 ---
 Investigating Artificial Intelligence techniques with a LISP implementation of the classic game *Samegame* (see one version [here](http://www.oopixel.com/games/samegame/)). The game basically consists of clearing similarly colored groups of beads that are horizontally or vertically adjacent on a 2D game board (see below). The game ends when there are no more groups of beads remaining on the board or there are no beads on the board at all.
 
-![Screenshot](https://github.com/neeraj2608/chainshotAI/blob/master/chainshot.png)
+![Screenshot](chainshot.png)
 
 Note that although the game appears simple, it is computationally *not*, primarily because there exist multiple end states of the game depending on the choices made at any step of the game.
 
